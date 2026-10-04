@@ -1,0 +1,6 @@
+{
+  "appId": "com.schoolbus.manager",
+  "appName": "School Bus Manager",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
